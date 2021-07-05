@@ -1,0 +1,2 @@
+me/jay/common/BuildConfig.java
+ me.jay.common.BuildConfig
